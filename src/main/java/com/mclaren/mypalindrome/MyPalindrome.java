@@ -16,7 +16,7 @@ public class MyPalindrome {
     }
 
     /**
-     * Check if a given str is a MyPalindrome or not.
+     * Check if a given str is a Palindrome or not.
      *
      * @param str String to test.
      * @return
@@ -33,7 +33,7 @@ public class MyPalindrome {
     }
 
     /**
-     * Main MyPalindrome algorithm.
+     * Main Palindrome algorithm.
      *
      * @param str String to test.
      * @return
